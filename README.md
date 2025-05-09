@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Hudson Urbano
+# 👨🏾‍💻 Hudson Urbano
 
 **`Desenvolvedor FullStack`**
 
