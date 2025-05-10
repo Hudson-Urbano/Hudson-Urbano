@@ -116,16 +116,20 @@ Me chamo Hudson Urbano, sou apaixonado por tecnologia e desenvolvimento. Atualme
 <br/>
 <br/>
 
-### 📊 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hudson-Urbano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### 📊 Tecnologias Usadas
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Urbano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+### 📊 Estatísticas do GitHub e Tecnologias Usadas
+<div style="display: flex; justify-content: space-between;">
+    <img 
+        alt="GitHub Stats"
+        height="200"
+        src="https://github-readme-stats.vercel.app/api?username=Hudson-Urbano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical"
+    />
+    <img 
+        align="left" 
+        alt="GitHub Stats" 
+        height="200" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Urbano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+</div>
 
 
 ### 📚 Certificações e Cursos
