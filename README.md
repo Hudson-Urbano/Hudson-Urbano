@@ -131,9 +131,6 @@ Me chamo Hudson Urbano, sou apaixonado por tecnologia e desenvolvimento. Atualme
 </div>
 
 
-
-
-### 📚 Certificações e Cursos
-- **Certificação em JAVA ORIENTADO A OBJETOS** - [Udemy]
-- **Curso de Git e Github** - [Curso em video]
-- **Curso de banco de dados** - [Curso em video]
+### 🚀 Projetos em Destaque
+- [**Projeto X**](https://github.com/Hudson-Urbano/projeto-x): Descrição do projeto, tecnologias usadas, como foi desenvolvido, desafios e soluções.
+- [**Projeto Y**](https://github.com/Hudson-Urbano/projeto-y): Outro projeto, com detalhes sobre o impacto e resultados.
