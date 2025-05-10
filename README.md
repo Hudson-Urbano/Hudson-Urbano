@@ -116,22 +116,10 @@ Me chamo Hudson Urbano, sou apaixonado por tecnologia e desenvolvimento. Atualme
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Estatísticas de GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Hudson-Urbano&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github.com/Hudson-Urbano/Hudson-Urbano" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Urbano&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+### 📚 Certificações e Cursos
+- **Certificação em JAVA ORIENTADO A OBJETOS** - [Udemy]
+- **Curso de Git e Github** - [Curso em video]
+- **Curso de banco de dados** - [Curso em video]
