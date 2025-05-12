@@ -37,7 +37,7 @@ Me chamo Hudson Urbano, sou apaixonado por tecnologia e desenvolvimento. Atualme
 
 ---
 
-### 🚀 Tecnologias que mais utilizo
+### 🤖 Linguagens e Tecnologias
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -63,6 +63,6 @@ Me chamo Hudson Urbano, sou apaixonado por tecnologia e desenvolvimento. Atualme
 
 ---
 
-### 🌟 Projetos em Destaque
+### 🚀 Projetos em Destaque
 - [**Projeto X**](https://github.com/Hudson-Urbano/projeto-x): Descrição do projeto, tecnologias usadas, como foi desenvolvido, desafios e soluções.
 - [**Projeto Y**](https://github.com/Hudson-Urbano/projeto-y): Outro projeto, com detalhes sobre o impacto e resultados.
