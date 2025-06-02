@@ -42,9 +42,8 @@ Olá! Me chamo **Hudson Urbano**, sou apaixonado por tecnologia e desenvolviment
 
 ### 🚀 Projetos em Destaque
 
-- 🔹 [**Projeto X**](https://github.com/Hudson-Urbano/projeto-x) — Breve descrição do projeto, tecnologias usadas, principais desafios e aprendizados.
-- 🔹 [**Projeto Y**](https://github.com/Hudson-Urbano/projeto-y) — Outro projeto com detalhes relevantes, impacto gerado e evolução técnica.
-
+- 🔹 [**Projeto X**](Projetos/ConversorTemperatura.java) — Calculadora simples feita em Java!
+- 🔹 [**Projeto Y**](Projetos/ConversorTemperatura.java) — Conversor de temperatura simples feito também em Java!
 ---
 
 ### 📬 Entre em Contato
