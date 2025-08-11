@@ -50,13 +50,7 @@ Olá! Me chamo **Hudson Urbano**, sou apaixonado por tecnologia e desenvolviment
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" 
     style="padding-right: 10px;"
   />
-  <img 
-    alt="React" 
-    title="React" 
-    width="30px" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
-    style="padding-right: 10px;"
-  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-plain.svg"/>
   <img 
     alt="Java" 
     title="Java" 
