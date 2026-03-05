@@ -67,6 +67,7 @@ Estou constantemente evoluindo minhas habilidades em **Python, SQL, modelagem de
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hudson-Urbano&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hudson-Urbano&layout=compact&theme=tokyonight&count_private=true" />
 </p>
+
 ---
 
 ## 🚀 Filosofia
