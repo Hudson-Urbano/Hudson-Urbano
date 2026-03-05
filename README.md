@@ -61,24 +61,18 @@ Estou constantemente evoluindo minhas habilidades em **Python, SQL, modelagem de
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hudson-Urbano&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hudson-Urbano&layout=compact&theme=tokyonight" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Hudson-Urbano&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Hudson-Urbano&layout=compact&theme=tokyonight&count_private=true" />
 </p>
-
-<p align="left">
-  <img height="170" src="https://streak-stats.demolab.com?user=Hudson-Urbano&theme=tokyonight&hide_border=false" />
-</p>
-
 ---
 
 ## 🚀 Filosofia
 
-> "Dados não são apenas números.  
-> São a base para decisões estratégicas inteligentes."
+> "Dados transformam informação em estratégia,  
+> e estratégia transforma esforço em resultados."
 
 ---
 
